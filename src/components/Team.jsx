@@ -1,7 +1,7 @@
 import React from 'react'
-import Team1 from "../../public/images/team1.png";
-import Team2 from "../../public/images/team2.png";
-import Team3 from "../../public/images/team3.png";
+import Team1 from "../images/team1.png";
+import Team2 from "../images/team2.png";
+import Team3 from "../images/team3.png";
 
 
 const Team = () => {

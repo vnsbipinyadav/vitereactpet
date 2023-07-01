@@ -1,9 +1,9 @@
 import React from 'react'
-import Veterianarian from "../../public/images/img5.png";
-import Vaccination from "../../public/images/img4.png";
-import Dental from "../../public/images/img3.png";
+import Veterianarian from "../images/img5.png";
+import Vaccination from "../images/img4.png";
+import Dental from "../images/img3.png";
 import { Link } from 'react-router-dom';
-import Animal from "../../public/images/img6.png";
+import Animal from "../images/img6.png";
 
 
 const Service = () => {
